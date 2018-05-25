@@ -1,0 +1,100 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,back_png,bg_png,box_png,follow_png,gift_png,heart_png,line_png,patch1_png,patch2_png,patch3_png,redbox_png,round1_png,round2_png,round3_png,suibox_png,topbg_png,vs_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "back_png",
+			"type": "image",
+			"url": "assets/back.png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/bg.png"
+		},
+		{
+			"name": "box_png",
+			"type": "image",
+			"url": "assets/box.png"
+		},
+		{
+			"name": "follow_png",
+			"type": "image",
+			"url": "assets/follow.png"
+		},
+		{
+			"name": "gift_png",
+			"type": "image",
+			"url": "assets/gift.png"
+		},
+		{
+			"name": "heart_png",
+			"type": "image",
+			"url": "assets/heart.png"
+		},
+		{
+			"name": "line_png",
+			"type": "image",
+			"url": "assets/line.png"
+		},
+		{
+			"name": "patch1_png",
+			"type": "image",
+			"url": "assets/patch1.png"
+		},
+		{
+			"name": "patch2_png",
+			"type": "image",
+			"url": "assets/patch2.png"
+		},
+		{
+			"name": "patch3_png",
+			"type": "image",
+			"url": "assets/patch3.png"
+		},
+		{
+			"name": "redbox_png",
+			"type": "image",
+			"url": "assets/redbox.png"
+		},
+		{
+			"name": "round1_png",
+			"type": "image",
+			"url": "assets/round1.png"
+		},
+		{
+			"name": "round2_png",
+			"type": "image",
+			"url": "assets/round2.png"
+		},
+		{
+			"name": "round3_png",
+			"type": "image",
+			"url": "assets/round3.png"
+		},
+		{
+			"name": "suibox_png",
+			"type": "image",
+			"url": "assets/suibox.png"
+		},
+		{
+			"name": "topbg_png",
+			"type": "image",
+			"url": "assets/topbg.png"
+		},
+		{
+			"name": "vs_png",
+			"type": "image",
+			"url": "assets/vs.png"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16396f4174b" ></w:Config>
+	<e:Image source="bg_png" x="0" y="0"/>
+	<e:Image source="topbg_png" x="0" y="0"/>
+	<e:Button id="backBtn" label="" x="42" y="38">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="back_png" source.down="back_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label text="暴走的盒子" x="82" y="38"/>
+	<e:Button id="followBtn" label="" x="384" y="30">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="follow_png" source.down="follow_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="giftBtn" label="" x="500" y="30">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="gift_png" source.down="gift_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="vs_png" x="326" y="102"/>
+	<e:Image source="box_png" x="67" y="419"/>
+	<e:Image source="box_png" x="232" y="419"/>
+	<e:Image source="box_png" x="406" y="419"/>
+	<e:Image source="box_png" x="590.67" y="419"/>
+</e:Skin>
